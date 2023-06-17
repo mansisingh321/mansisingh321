@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Mansi Singh</h1>
+<h1 align="center">Hi👋, I'm Mansi Singh</h1>
 <h3 align="center">Pursuing MSc Maths || Hindu College || DU'24</h3>
 
-<img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansisingh321&label=Profile%20views&color=0e75b6&style=flat" alt="mansisingh321" /> </p>
 
-- 📫 How to reach me **mansisingh33143@gmail.com**
+- 📫 How to reach me  : **mansisingh33143@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
